@@ -1,3 +1,1 @@
 print('HURRAY WE ARE FINALLY USING GIT')
-
-print(' FYB 2028 WE MADE IT !!!!')
